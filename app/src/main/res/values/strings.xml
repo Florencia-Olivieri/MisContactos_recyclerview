@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MisContactos</string>
+    <string name="nombre">Florencia Olivieri</string>
+    <string name="telefono">098555777</string>
+    <string name="email">flooli7@gmail.com</string>
+    <string name="imgTelefono">imagen de Telefono</string>
+    <string name="imgEmail">imagen de un Email</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="descfotorayo">dibujo de un rayo</string>
+</resources>
